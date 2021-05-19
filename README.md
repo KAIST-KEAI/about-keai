@@ -10,6 +10,7 @@ Welcome to the Knowledge Engineering and Artificial Intelligence (KEAI) Lab at K
 | Affective Virtual TA                        | Affective virtual TA service for foreign language education                            | 2020-07-01 – 2022-12-31       | KEIT (Government)              |
 | XR-based Police Training Platform           | XR counter-terrorism education and training testbed establishment                      | 2021-04-01 – 2025-12-31       | National Police Agency         |
 | SMC Digital Pathology Consortium            | Integrated analysis platform for high-incidence cancer pathology data                  | 2021-04-01 – 2025-12-31       | Samsung Medical Center         |
+| United Associates Voucher                   | AI learning assistant platform for English conversation                                | 2021-06-01 – 2022-05-31       | IITP (Government)              |
 
 ---
 
@@ -77,6 +78,23 @@ We are creating an AI-based cancer analysis platform using high-resolution digit
 - Image Classification/Segmentation for High-Resolution Images  
 - Transfer Learning for Digital Pathology Data  
 - Explainable AI in Medical Image Analysis  
+
+---
+
+## United Associates Voucher Project  
+**Link:** https://keai.kaist.ac.kr/projects/united-associates-voucher/  
+**Project title:** Smart home platform technology for AI learning assistant for English conversation  
+**Funding source:** IITP (Government)  
+**Duration:** 2021-06-01 – 2022-05-31  
+**Key Areas:** Intelligent Assistant; Chatbot Dialogue; English Conversation  
+
+**Description:**  
+As part of an ICT Innovation Voucher program, we supported startup United Associates to build an AI platform that helps elementary students practice English speaking. The system generates empathetic chat, manages learner profiles for personalization, recommends content, and animates avatar facial expressions and gestures. The product is now in active service.
+
+**Recent Topics of Interest:**  
+- Personalized Adaptive Learning Assistants  
+- Learner Profile Management & Persona-Based Dialogue  
+- Pose-Guided Avatar Generation  
 
 ---
 
