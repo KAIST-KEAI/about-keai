@@ -11,6 +11,7 @@ Welcome to the Knowledge Engineering and Artificial Intelligence (KEAI) Lab at K
 | XR-based Police Training Platform           | XR counter-terrorism education and training testbed establishment                      | 2021-04-01 – 2025-12-31       | National Police Agency         |
 | SMC Digital Pathology Consortium            | Integrated analysis platform for high-incidence cancer pathology data                  | 2021-04-01 – 2025-12-31       | Samsung Medical Center         |
 | United Associates Voucher                   | AI learning assistant platform for English conversation                                | 2021-06-01 – 2022-05-31       | IITP (Government)              |
+| KT-KAIST Natural Interaction Project        | Task-oriented persona-based dialogue with multi-modal interaction & knowledge modeling | 2021-11-01 – 2024-10-31       | KT Corporation                 |
 
 ---
 
@@ -95,6 +96,22 @@ As part of an ICT Innovation Voucher program, we supported startup United Associ
 - Personalized Adaptive Learning Assistants  
 - Learner Profile Management & Persona-Based Dialogue  
 - Pose-Guided Avatar Generation  
+
+---
+
+## KT-KAIST Natural Interaction Project  
+**Link:** https://keai.kaist.ac.kr/projects/kt-kaist-natural-interaction/  
+**Project title:** Development of task-oriented persona-based dialogue generation combining multi-modal interaction and knowledge modeling  
+**Funding source:** KT Corporation  
+**Duration:** 2021-11-01 – 2024-10-31  
+**Key Areas:** Natural Language Understanding; Multi-Modal Interaction; Dialogue Generation  
+
+**Description:**  
+Under KT’s “Natural Interaction” theme, we build a persona-based conversational system featuring (1) end-to-end dialogue generation, (2) task-oriented knowledge/memory modeling, and (3) multi-modal interaction. In year one, we created the preliminary dialogue engine; year two focused on memory modeling and empathetic response generation; year three integrates task-oriented multi-modal features. Research emphasizes context-awareness and personalization through short- and long-term memory.
+
+**Recent Topics of Interest:**  
+- Context-Aware Multi-Modal Dialogue Generation  
+- Personalized Memory Modeling for Proactive Interaction  
 
 ---
 
